@@ -4,6 +4,10 @@ capture "hello","world"
 print   "human fish"
 waste_some_time 100
 
+print   "block 3"
+waste_some_time 500
+waste_some_time 500
+waste_some_time 500
 
 print   "block 2"
 waste_some_time 300
