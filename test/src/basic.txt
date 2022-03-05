@@ -1,0 +1,9 @@
+print   "hello"
+print   "world"
+capture "hello","world"
+print   "human fish"
+waste_some_time 100
+
+
+print   "block 2"
+waste_some_time 300
