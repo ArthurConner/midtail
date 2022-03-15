@@ -4,5 +4,6 @@ capture	"hello","world"
 print	"human fish"
 waste_some_time	100
 
+@name: deepQuerry
 print	"block 2"
 waste_some_time	300
